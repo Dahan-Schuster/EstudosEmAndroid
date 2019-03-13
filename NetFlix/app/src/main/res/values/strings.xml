@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NetFlix</string>
+    <string name="txt_titulo_serie">House of Cards</string>
+    <string name="txt_episodio">S1:E1</string>
+    <string name="menu_mensagem">menu mensagem</string>
+    <string name="volume">volume</string>
+    <string name="menu_favoritos">menu favoritos</string>
+    <string name="menu_conteudo">menu conteudo</string>
+    <string name="video">video</string>
+    <string name="retornar_video_ao_inicio">retornar video ao inicío</string>
+    <string name="parar_reproducao">parar reprodução</string>
+    <string name="pausar_ou_iniciar_reproducao">pausar ou iniciar reprodução</string>
+    <string name="minutes_passed">00:00</string>
+    <string name="minutes_left">00:00</string>
+</resources>
