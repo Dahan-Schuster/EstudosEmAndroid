@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notícias de Projetos</string>
+    <string name="label_titulo">Aprenda sobre edição de imagens</string>
+    <string name="label_data">10/08/2018</string>
+    <string name="label_texto">Lorem ipsum dolor sit amet, consectefur adipiscing elit. Proin eros elit, finibus venenatis volutpat diam ut commodo. In sit amet condimentum nulia Maecenas sapien felis, tincidunt \c ipsum eget, fringilla tempor felis. Aliquam pretium varius tortor, ut varius augue feugiat a. Morbi urna enim, placerat sit amet erat at, elementum ultrices augue. ut mattis consectetur ultriches. Etiam interdum nibh elit dapibus</string>
+    <string name="label_autor">Dahan Schuster</string>
+    <string name="btn_anterior">anterior</string>
+    <string name="btn_proximo">próximo</string>
+    <string name="imagem_descricao">Imagem de um castelo holográfico repleto de folhas sendo projeto por um smartphone</string>
+</resources>
