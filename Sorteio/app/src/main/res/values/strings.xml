@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Sorteio</string>
-    <string name="mensagem_principal" />
-    <string name="bt_sortear">Sortear</string>
-    <string name="mensagem_apresentacao">Aperte o botão para sortear um número de 0 a 10</string>
-</resources>
